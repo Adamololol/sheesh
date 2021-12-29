@@ -1,0 +1,27 @@
+body{
+color: goldenrod;
+background: mediumslateblue;
+}
+.heading
+{
+  width: 80%;
+  font-size: 22px;
+}
+.nameofobjects
+{
+    color: palevioletred;
+}
+#camera
+{
+ border: 2px dashed aqua;
+width: 350px;
+height: 300px;
+}
+#resultobjectname
+{
+    color: blueviolet;
+}
+#resultaccuracy
+{
+    color: darkred;
+}
